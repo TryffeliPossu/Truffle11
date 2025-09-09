@@ -1,0 +1,1 @@
+winget install StartIsBack.StartAllBack --silent --accept-package-agreements

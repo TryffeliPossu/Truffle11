@@ -1,0 +1,1 @@
+winget install Rainmeter.Rainmeter --silent --accept-package-agreements

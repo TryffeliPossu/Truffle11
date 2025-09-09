@@ -1,0 +1,1 @@
+winget install MicaForEveryone.MicaForEveryone --silent --accept-package-agreements

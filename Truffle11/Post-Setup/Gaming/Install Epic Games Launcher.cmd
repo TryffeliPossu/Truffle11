@@ -1,0 +1,1 @@
+winget install EpicGames.EpicGamesLauncher --silent --accept-package-agreements

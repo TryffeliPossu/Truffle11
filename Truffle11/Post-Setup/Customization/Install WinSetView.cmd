@@ -1,0 +1,1 @@
+winget install LesFerch.WinSetView --silent --accept-package-agreements

@@ -1,0 +1,1 @@
+winget install CharlesMilette.TranslucentTB --silent --accept-package-agreements

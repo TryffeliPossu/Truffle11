@@ -1,0 +1,1 @@
+winget install FilesCommunity.Files --silent --accept-package-agreements

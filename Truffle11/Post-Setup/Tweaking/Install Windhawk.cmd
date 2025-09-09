@@ -1,0 +1,1 @@
+winget install RamenSoftware.Windhawk --silent --accept-package-agreements

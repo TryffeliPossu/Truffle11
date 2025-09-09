@@ -1,0 +1,1 @@
+winget install Valve.Steam --silent --accept-package-agreements

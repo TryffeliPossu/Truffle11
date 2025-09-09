@@ -1,0 +1,1 @@
+winget install Discord.Discord --silent --accept-package-agreements

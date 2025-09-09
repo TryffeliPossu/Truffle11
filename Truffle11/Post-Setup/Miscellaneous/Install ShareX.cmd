@@ -1,0 +1,1 @@
+winget install ShareX.ShareX --silent --accept-package-agreements

@@ -1,0 +1,1 @@
+winget install Obsidian.Obsidian --silent --accept-package-agreements
