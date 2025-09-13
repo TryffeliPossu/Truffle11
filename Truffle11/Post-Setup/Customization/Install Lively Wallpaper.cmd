@@ -1,1 +1,0 @@
-winget install 9NTM2QC6QWS7 --silent --accept-package-agreements

@@ -1,1 +1,0 @@
-winget install TechPowerUp.NVCleanstall --silent --accept-package-agreements

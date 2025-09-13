@@ -1,1 +1,0 @@
-winget install Notepad++.Notepad++ --silent --accept-package-agreements

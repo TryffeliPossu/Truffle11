@@ -1,1 +1,0 @@
-winget install XPFFTQ032PTPHF --silent --accept-package-agreements

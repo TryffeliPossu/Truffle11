@@ -1,1 +1,0 @@
-winget install Modrinth.ModrinthApp --silent --accept-package-agreements

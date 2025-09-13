@@ -1,1 +1,0 @@
-winget install Balena.Etcher --silent --accept-package-agreements

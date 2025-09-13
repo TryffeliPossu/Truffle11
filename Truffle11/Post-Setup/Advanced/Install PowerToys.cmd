@@ -1,1 +1,0 @@
-winget install Microsoft.PowerToys --silent --accept-package-agreements

@@ -1,1 +1,0 @@
-winget install winaero.tweaker --silent --accept-package-agreements

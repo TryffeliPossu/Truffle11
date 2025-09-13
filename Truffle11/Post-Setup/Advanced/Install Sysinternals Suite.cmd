@@ -1,1 +1,0 @@
-winget install 9P7KNL5RWT25 --silent --accept-package-agreements
